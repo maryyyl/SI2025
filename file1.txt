@@ -1,1 +1,2 @@
+New line.
 This is some file to be commited.
